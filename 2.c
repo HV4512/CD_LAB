@@ -1,3 +1,6 @@
+// LEXICAL ANALYSER
+
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>
@@ -146,8 +149,6 @@ void parse(char* str)
 	}
 	return;
 }
-
-// DRIVER FUNCTION
 int main()
 {
 	// maximum length of string is 100 here
@@ -158,3 +159,21 @@ int main()
 
 	return (0);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
